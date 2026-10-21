@@ -1,0 +1,159 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Camisa Linho Clássica",
+      "category": "Camisas",
+      "description": "Camisa leve de linho, ideal para dias quentes.",
+      "price": 34.9,
+      "color": "Bege",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "stock": 15,
+      "image": "/images/camisa-linho.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Calça Wide Leg",
+      "category": "Calças",
+      "description": "Calça de cintura alta com corte amplo.",
+      "price": 39.9,
+      "color": "Preto",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "stock": 8,
+      "image": "/images/calca-wide-leg.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Vestido Floral Midi",
+      "category": "Vestidos",
+      "description": "Vestido fluido com estampa floral e cintura marcada.",
+      "price": 49.9,
+      "color": "Verde",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "stock": 12,
+      "image": "/images/vestido-floral.jpg"
+    },
+    {
+      "id": "4",
+      "name": "T-shirt Essential",
+      "category": "T-shirts",
+      "description": "T-shirt básica de algodão com corte confortável.",
+      "price": 14.9,
+      "color": "Branco",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "stock": 25,
+      "image": "/images/tshirt-essential.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Casaco Oversized",
+      "category": "Casacos",
+      "description": "Casaco moderno com corte oversized e bolsos frontais.",
+      "price": 64.9,
+      "color": "Castanho",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "stock": 6,
+      "image": "/images/casaco-oversized.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Saia Plissada",
+      "category": "Saias",
+      "description": "Saia plissada com movimento e acabamento elegante.",
+      "price": 29.9,
+      "color": "Preto",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "stock": 10,
+      "image": "/images/saia-plissada.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Calções de Sarja",
+      "category": "Calções",
+      "description": "Calções de sarja com corte casual e bolsos laterais.",
+      "price": 24.9,
+      "color": "Areia",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "stock": 18,
+      "image": "/images/calcoes-sarja.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Mala Tiracolo",
+      "category": "Acessórios",
+      "description": "Mala compacta para completar qualquer visual.",
+      "price": 27.9,
+      "color": "Bordô",
+      "sizes": [
+        "Único"
+      ],
+      "stock": 9,
+      "image": "/images/mala-tiracolo.jpg"
+    },
+    {
+      "name": "Calça",
+      "price": "10.90",
+      "id": "jydyV5G-2Ds"
+    },
+    {
+      "name": "Vestido",
+      "price": "90.0",
+      "id": "uSYV2PLMC44"
+    },
+    {
+      "name": "T-shirt",
+      "price": "20.",
+      "id": "-4Imx36-490"
+    },
+    {
+      "name": "Saia Longa",
+      "price": "45.0",
+      "id": "v4Cs4sV5qyo"
+    },
+    {
+      "name": "Pantalona",
+      "price": "100",
+      "id": "iK6TPDj504Q"
+    },
+    {
+      "name": "T-Shirt ",
+      "price": "24",
+      "id": "kYe95MNZ4rM"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
