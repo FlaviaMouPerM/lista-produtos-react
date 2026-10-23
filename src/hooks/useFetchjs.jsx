@@ -19,7 +19,7 @@ export const useFetch = (url) => {
       setConfig({
         method,
         headers: {
-          "contente-type": "application/json",
+          "Content-Type": "application/json",
         },
         body: JSON.stringify(data),
       });
